@@ -1,0 +1,232 @@
+@media (max-width: 1000px) {
+    .regular-services{
+        display: none;
+    }
+}
+
+@media (max-width: 800px) {
+
+    header .nav-item:last-child{
+        
+        margin-left: 0;
+    }
+
+}
+
+@media (max-width: 500px) {
+
+    header .navbar-brand{
+        padding-left: 0rem;
+    }
+
+    .whyUrban .experts{
+        padding-left: 35px;
+    }  
+
+    .quality{
+        padding: 30px;    
+    }
+    .quality .quality-image{
+    width: 90px;
+    height: 105px;
+    }
+
+    .quality h3{
+        font-size: 28px;
+        
+        line-height: 1.5;
+       
+        margin-bottom: 12px;
+        margin-top: 36px;
+    }
+    
+    .quality p{
+        font-size: 18px;
+        line-height: 1.44;
+        color: #757575;
+    }
+
+}
+
+@media (max-width: 430px) {
+
+.service-items .select-location{
+    width: 300px;
+
+}
+
+}
+
+@media (max-width: 410px) {
+
+    .service-items .select-location{
+        width: 280px;
+    
+    }
+    
+    }
+
+    @media (max-width: 380px) {
+
+        .service-items .select-location{
+            width: 250px;
+        
+        }
+        
+        }
+
+
+
+@media (max-width: 420px) {
+
+   .services-section .services-item {
+   
+    padding: 16px;
+    
+}
+
+.services-section .services-item {
+   text-align: center; 
+}
+
+.services-section .services-item span {
+font-size: 12px;
+letter-spacing: 4px;
+text-align:center;
+}
+
+
+.services-section .services-item h1 {
+font-size: 20px;
+margin-top: 8px;
+    margin-bottom: 12px;
+text-align:center;
+}
+
+
+.services-section .services-item p{
+text-align:center;
+    font-size: 13px;
+line-height: 1.54;
+color: #bdbdbd;
+margin-bottom:28px;
+}
+
+
+
+.services-section .service-items .select-location{
+    width: 100%;
+border-radius:none;
+background-color: transparent;
+padding: 14px;
+margin-top: 0px;
+color: black;
+}
+
+
+.services-section .service-items .select-location p{
+font-size: 0px;
+font-weight: 0;
+line-height:0;
+color: none;
+margin-bottom:0px;
+}
+
+
+.services-section .overlay{
+ background-image: linear-gradient(to bottom,transparent,#000 96%);
+ width: 100%; height: 106%; 
+}
+
+
+
+
+.UC h2{
+font-size: 18px;
+margin-bottom: 32px;
+}
+
+
+.UC ul li{
+margin-bottom: 32px;
+}
+
+.UC ul li .image-box{
+width: 32px;
+height: 32px;
+margin-right: 16px;
+}
+
+.uc-image-text h3{
+font-size: 14px;
+}
+
+.uc-image-text p{
+font-size: 12px;
+}
+
+.whyUrban{
+padding: 20px 0px;
+}
+
+.why-urban-section .col-md-12{
+padding-right:0;
+padding-left:0;}
+
+
+
+.quality-percent .services-item{
+   text-align:center;
+    padding: 20px;
+    
+}
+
+.quality{
+padding:28px 32px;
+text-align:center;}
+
+.quality .quality-image {
+    width: 56px;
+    height: 63px;
+text-align:center;
+display:inline-block;
+}
+
+
+.quality h3{
+font-size: 18px;
+margin-bottom: 8px;
+margin-top: 28px;
+}
+
+.quality p{
+font-size: 13px;
+}
+
+.recommended-sercices {
+    padding: 6px 8px 12px 0px;
+}
+
+footer{
+padding:0;}
+
+footer ul li {
+    
+    padding: 0.5em 0.7em 0em 0.5em;
+    font-size:14px;
+    line-height: 18px;
+}
+
+.footer-bottom .social-icons li {
+    margin-right: 14px;
+    
+}
+
+.footer-bottom .app a {
+    margin-right: 0px;
+}
+    
+    }
+   
+        
+          
